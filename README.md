@@ -1,5 +1,5 @@
 # ATM
-An ATM program built using javascript.
+An ATM program built using javascript, HTML, and CSS.
 
 A user can deposit or withdraw from both checking and savings.
 
